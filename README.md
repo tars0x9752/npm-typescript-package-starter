@@ -1,4 +1,4 @@
-# npm-typescript-package-starter
+# npm-typescript-package-starter-boilerplate
 
 A personal TypeScript package starter boilerplate.
 
